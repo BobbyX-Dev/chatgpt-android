@@ -204,6 +204,7 @@ For more information about the overall architecture, check out **[Build a Real-T
 - **Decentralized focusing**: Each developer team can assign their dedicated module and they can focus on their own modules.
 
 
+
 ## 💯 MAD Score
 
 ![summary](https://user-images.githubusercontent.com/24237865/158918011-bc766482-ec83-47dd-9237-d8a226cab263.png)
